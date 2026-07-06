@@ -1,0 +1,2 @@
+class GeminiRequestError(RuntimeError):
+    pass
